@@ -1,0 +1,29 @@
+.card{
+    display:flex;
+    flex-direction:row;
+    flex-wrap:wrap;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 5%;
+    margin-bottom: 10px;
+    border: 1px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.marg{
+    margin-top: -15px;
+}
+.card-cont{
+    box-shadow: 3px 3px 5px 6px #ccc;
+    border-radius: 3px;
+    width: 380px;
+    margin-left:auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    margin-top: 3%;
+    float: left;
+}
+.marg-cont{
+    border: 1px;
+    margin-left: 15%;
+    margin-right: 15%;
+}

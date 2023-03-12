@@ -1,0 +1,13 @@
+.color{
+    color:#FF1493;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    list-style-type: none;
+}
+.bordering{
+    box-shadow: 0px 5px 7.4564px rgba(0,0,0,0.1);
+    padding-bottom: 15px;
+    width: 100%;
+}
+.leftspace{
+    padding-left: 15px;
+}

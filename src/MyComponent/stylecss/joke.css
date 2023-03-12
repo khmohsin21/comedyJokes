@@ -1,0 +1,22 @@
+.marg{
+    margin-left: 20%;
+}
+.box{
+    border-left: 5px solid yellow;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding-top: 20px;
+}
+.punchsize{
+    font-size: 26px;
+}
+.padd{
+    padding-left: 15px;
+    background-color: rgb(255, 230, 192);
+    width: 70%;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+
+}
