@@ -1,7 +1,7 @@
-export default [
+const arr1= [
     {
         setup:"What kind of bees provide us milk?" ,
-        punchline:"Let`s find out"
+        punchline:"let`s find out"
     },
     {
         setup:"My grandfather has a heart of a lion", 
@@ -20,3 +20,4 @@ export default [
         punchline:"A stick"
     }
 ]
+export default arr1
